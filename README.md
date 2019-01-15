@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 启动 mongodb
+mongod --dbpath='/Users/zhouyanfeng/node-mongo/mongodb/data/db'
+mongo
+
